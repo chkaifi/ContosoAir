@@ -1,8 +1,7 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
 
 # Microsoft.Github CI Demo
 
+[![Build Status](https://dev.azure.com/CHKAIFIYOUNESS/Younes/_apis/build/status/chkaifi.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/CHKAIFIYOUNESS/Younes/_build/latest?definitionId=4&branchName=master)
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
